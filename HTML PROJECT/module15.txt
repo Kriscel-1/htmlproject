@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quarter 1- Module 15: Graphing Systems of Linear Equations in Two Variables</title>
+    <style>
+        body {
+            background-color: skyblue;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        p {
+            text-align: justify;
+        }
+
+        a {
+            text-decoration: none;
+            color: #333;
+            transition: color 0.3s;
+        }
+
+        a:hover {
+            color: #007bff;
+        }
+
+        a.back-link {
+            display: block;
+            margin-top: 20px;
+            text-align: center;
+            color: #007bff;
+        }
+
+        a.back-link:hover {
+            color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Quarter 1- Module 15: Graphing Systems of Linear Equations in Two Variables</h1>
+    <p>This module focuses on graphing systems of linear equations in two variables. Graphical representation is a powerful tool for analyzing and interpreting solutions to systems of equations, providing insights into the relationships between variables.</p>
+    <p>Key topics covered in this module include:</p>
+    <ul>
+        <li>Graphing systems of linear equations using the Cartesian coordinate system</li>
+        <li>Identifying the geometric interpretation of system solutions</li>
+        <li>Analyzing intersections and relationships between graphs</li>
+        <li>Determining the number of solutions to a system graphically</li>
+        <li>Using graphs to solve real-world problems involving systems of equations</li>
+    </ul>
+    <p>By mastering the concepts presented in this module, students will develop proficiency in graphing systems of linear equations and gain valuable problem-solving skills applicable to mathematical and real-world scenarios.</p>
+    <a href="module16.html" class="back-link">Next Module: Solving Systems of Linear Equations in Two Variables</a>
+    <a href="main.html" class="back-link">Back to Home</a>
+</div>
+
+</body>
+</html>

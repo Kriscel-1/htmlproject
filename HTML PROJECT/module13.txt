@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quarter 1- Module 13: Solving Problems Involving Linear Equations in Two Variables</title>
+    <style>
+        body {
+            background-color: skyblue;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        p {
+            text-align: justify;
+        }
+
+        a {
+            text-decoration: none;
+            color: #333;
+            transition: color 0.3s;
+        }
+
+        a:hover {
+            color: #007bff;
+        }
+
+        a.back-link {
+            display: block;
+            margin-top: 20px;
+            text-align: center;
+            color: #007bff;
+        }
+
+        a.back-link:hover {
+            color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Quarter 1- Module 13: Solving Problems Involving Linear Equations in Two Variables</h1>
+    <p>This module focuses on solving problems that involve linear equations in two variables. These problems may include systems of equations, applications of linear equations, and real-world scenarios that require the solution of simultaneous equations.</p>
+    <p>Key topics covered in this module include:</p>
+    <ul>
+        <li>Solving systems of linear equations using various methods</li>
+        <li>Applying linear equations to solve word problems</li>
+        <li>Modeling real-world situations with linear equations</li>
+        <li>Identifying and interpreting solutions to systems of equations</li>
+        <li>Using systems of equations to make predictions</li>
+    </ul>
+    <p>By mastering the concepts presented in this module, students will be able to effectively solve problems involving linear equations in two variables and apply their problem-solving skills to analyze and interpret solutions in different contexts.</p>
+    <a href="module14.html" class="back-link">Next Module: Illustrating Systems of Linear Equations in Two Variables</a>
+    <a href="main.html" class="back-link">Back to Home</a>
+</div>
+
+</body>
+</html>

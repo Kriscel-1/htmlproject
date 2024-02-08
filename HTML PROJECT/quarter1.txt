@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grade 8 Mathematics</title>
+    <style>
+        body {
+            background-color: skyblue;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        h2 {
+            margin-bottom: 10px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: #333;
+            transition: color 0.3s;
+        }
+
+        a:hover {
+            color: #007bff;
+        }
+
+        a.back-link {
+            display: block;
+            margin-top: 20px;
+            text-align: center;
+            color: #007bff;
+        }
+
+        a.back-link:hover {
+            color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Grade 8 Mathematics Curriculum Quarter 1</h1>
+    <h2>Contents:</h2>
+    <ul>
+        <li><a href="module1a.html">Quarter 1- Module 1a: Factoring Polynomials</a></li>
+        <li><a href="module1b.html">Quarter 1- Module 1b: Factoring Perfect Square Trinomials and General Trinomials</a></li>
+        <li><a href="module2.html">Quarter 1- Module 2: Solving Problems Involving Factors of Polynomials</a></li>
+        <li><a href="module3.html">Quarter 1- Module 3: Illustrating Rational Algebraic Expression.</a></li>
+        <li><a href="module4.html"> Quarter 1- Module 4: Simplifying Rational Algebraic Expression.</a></li>
+        <li><a href="module5a.html">Quarter 1- Module 5a: Multiplying and Dividing Rational Algebraic Expression.</a></li>
+        <li><a href="module5b.html">Quarter 1- Module 5b: Adding and Subtracting Similiar and Dissimilar Rational Algebraic Expression.</a></li>
+        <li><a href="module5c.html">Quarter 1- Module 5c: Solving Problem Involving Rational Algebraic Expression.</a></li>
+        <li><a href="module6.html">Quarter 1- Module 6: Illustrating a Rectangular Coordinate System.</a></li>
+        <li><a href="module7.html">Quarter 1- Module 7: Illustrating Linear Equations in Two Variables.</a></li>
+        <li><a href="module8.html">Quarter 1- Module 8: Illustrating the Slope of a Line.</a></li>
+        <li><a href="module9.html"> Quarter 1- Module 9: Writing the Linear Equation.</a></li>
+        <li><a href="modul10.html">Quarter 1- Module 10: Graphic Linear Equations.</a></li>
+        <li><a href="module11.html">Quarter 1- Module 11: Describing the Graph of a Linear Equation.</a></li>
+        <li><a href="module12.html">Quarter 1- Module 12: Finding the Equation of a Line.</a></li>
+        <li><a href="module13.html">Quarter 1- Module 13: Solving Problems Involving Linear Equations in Two Variables.</a></li>
+        <li><a href="module14.html">Quarter 1- Module 14: Illustrating Systems of Linear Equations in Two Variables.</a></li>
+        <li><a href="module15.html">Quarter 1- Module 15: Graphing Systems of Linear Equations in Two Variables.</a></li>
+        <li><a href="module16.html">Quarter 1- Module 16: Solving Systems of Linear Equations in Two Variables.</a></li>
+    </ul>
+    <a href="main.html" class="back-link">Back to Home</a>
+</div>
+
+</body>
+</html>

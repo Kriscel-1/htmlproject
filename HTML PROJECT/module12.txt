@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quarter 1- Module 12: Finding the Equation of a Line</title>
+    <style>
+        body {
+            background-color: skyblue;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        p {
+            text-align: justify;
+        }
+
+        a {
+            text-decoration: none;
+            color: #333;
+            transition: color 0.3s;
+        }
+
+        a:hover {
+            color: #007bff;
+        }
+
+        a.back-link {
+            display: block;
+            margin-top: 20px;
+            text-align: center;
+            color: #007bff;
+        }
+
+        a.back-link:hover {
+            color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Quarter 1- Module 12: Finding the Equation of a Line</h1>
+    <p>This module focuses on determining the equation of a line given specific information such as the slope, y-intercept, or points on the line. Finding the equation of a line is essential for modeling linear relationships and solving various mathematical problems.</p>
+    <p>Key topics covered in this module include:</p>
+    <ul>
+        <li>Writing the equation of a line given the slope and y-intercept</li>
+        <li>Finding the equation of a line passing through two points</li>
+        <li>Determining the equation of a line parallel or perpendicular to another line</li>
+        <li>Applying the point-slope form and slope-intercept form</li>
+        <li>Using the equation of a line to model real-world situations</li>
+    </ul>
+    <p>By mastering the concepts presented in this module, students will be able to effectively find the equation of a line and use it to model linear relationships and solve problems in various contexts.</p>
+    <a href="module13.html" class="back-link">Next Module: Solving Problems Involving Linear Equations in Two Variables</a>
+    <a href="main.html" class="back-link">Back to Home</a>
+</div>
+
+</body>
+</html>

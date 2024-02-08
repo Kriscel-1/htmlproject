@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quarter 1- Module 16: Solving Systems of Linear Equations in Two Variables</title>
+    <style>
+        body {
+            background-color: skyblue;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        p {
+            text-align: justify;
+        }
+
+        a {
+            text-decoration: none;
+            color: #333;
+            transition: color 0.3s;
+        }
+
+        a:hover {
+            color: #007bff;
+        }
+
+        a.back-link {
+            display: block;
+            margin-top: 20px;
+            text-align: center;
+            color: #007bff;
+        }
+
+        a.back-link:hover {
+            color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Quarter 1- Module 16: Solving Systems of Linear Equations in Two Variables</h1>
+    <p>This module focuses on solving systems of linear equations in two variables using algebraic methods. Solving systems of equations involves finding the values of the variables that satisfy all equations simultaneously, providing solutions to real-world problems.</p>
+    <p>Key topics covered in this module include:</p>
+    <ul>
+        <li>Applying algebraic methods such as substitution and elimination to solve systems of equations</li>
+        <li>Identifying special cases and types of solutions to systems of equations</li>
+        <li>Using matrices and augmented matrices to solve systems of equations</li>
+        <li>Applying systems of equations to model and solve real-world problems</li>
+        <li>Interpreting and verifying solutions to systems of equations</li>
+    </ul>
+    <p>By mastering the concepts presented in this module, students will be equipped with problem-solving skills necessary to solve systems of linear equations in two variables and apply their knowledge to analyze and solve real-world problems.</p>
+    <a href="main.html" class="back-link">Back to Home</a>
+</div>
+
+</body>
+</html>

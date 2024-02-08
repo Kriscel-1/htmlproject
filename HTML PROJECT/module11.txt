@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quarter 1- Module 11: Describing the Graph of a Linear Equation</title>
+    <style>
+        body {
+            background-color: skyblue;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        p {
+            text-align: justify;
+        }
+
+        a {
+            text-decoration: none;
+            color: #333;
+            transition: color 0.3s;
+        }
+
+        a:hover {
+            color: #007bff;
+        }
+
+        a.back-link {
+            display: block;
+            margin-top: 20px;
+            text-align: center;
+            color: #007bff;
+        }
+
+        a.back-link:hover {
+            color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Quarter 1- Module 11: Describing the Graph of a Linear Equation</h1>
+    <p>This module focuses on analyzing and describing the characteristics of the graph of a linear equation. Understanding these characteristics is essential for interpreting graphs and extracting meaningful information from them.</p>
+    <p>Key topics covered in this module include:</p>
+    <ul>
+        <li>Identifying the slope and y-intercept from the equation of a line</li>
+        <li>Describing the direction and steepness of a line</li>
+        <li>Recognizing special cases such as horizontal and vertical lines</li>
+        <li>Understanding the relationship between slope and rate of change</li>
+        <li>Applying graph analysis to solve real-world problems</li>
+    </ul>
+    <p>By mastering the concepts presented in this module, students will be able to effectively interpret and describe the graph of a linear equation, as well as apply their understanding to solve problems in various contexts.</p>
+    <a href="module12.html" class="back-link">Next Module: Finding the Equation of a Line</a>
+    <a href="main.html" class="back-link">Back to Home</a>
+</div>
+
+</body>
+</html>

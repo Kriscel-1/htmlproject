@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quarter 1- Module 8: Illustrating the Slope of a Line</title>
+    <style>
+        body {
+            background-color: skyblue;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        p {
+            text-align: justify;
+        }
+
+        a {
+            text-decoration: none;
+            color: #333;
+            transition: color 0.3s;
+        }
+
+        a:hover {
+            color: #007bff;
+        }
+
+        a.back-link {
+            display: block;
+            margin-top: 20px;
+            text-align: center;
+            color: #007bff;
+        }
+
+        a.back-link:hover {
+            color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Quarter 1- Module 8: Illustrating the Slope of a Line</h1>
+    <p>This module focuses on understanding the concept of slope, which is a measure of the steepness of a line. Slope is a fundamental concept in algebra and is used to describe the rate of change between two variables.</p>
+    <p>Key topics covered in this module include:</p>
+    <ul>
+        <li>Defining slope and its significance</li>
+        <li>Calculating slope using the slope formula</li>
+        <li>Interpreting the slope of a line graphically</li>
+        <li>Understanding positive, negative, zero, and undefined slope</li>
+        <li>Applying slope to analyze linear relationships</li>
+    </ul>
+    <p>By mastering the concepts presented in this module, students will gain a deep understanding of slope and its applications in various mathematical contexts, including graphing linear equations, determining rates of change, and solving problems.</p>
+    <a href="module9.html" class="back-link">Next Module: Writing the Linear Equation</a>
+    <a href="main.html" class="back-link">Back to Home</a>
+</div>
+
+</body>
+</html>
